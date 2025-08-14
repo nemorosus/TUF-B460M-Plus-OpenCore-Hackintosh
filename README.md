@@ -1,6 +1,6 @@
 Info: This repository won't be updated anymore, good luck with your hack journey!
 
-# TUF-GAMING-B460M-Plus-OpenCore-Hackintosh
+# TUF-B460M-Plus-OpenCore-Hackintosh
 
 Updated on 9th October, 2024
 
